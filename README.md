@@ -70,10 +70,3 @@ python3 asr_engine.py
 
 Isso abrirá um menu interativo que utiliza o seu microfone local com calibração automática de ruído.
 
----
-
-**Nota Histórica:** Este projeto é uma evolução das implementações de 2012, atualizado para ser "zero-touch" e resiliente em infraestruturas modernas de telecomunicações.
-
-```
-
-```
