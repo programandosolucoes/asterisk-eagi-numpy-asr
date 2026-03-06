@@ -18,7 +18,7 @@ Este projeto é um motor de reconhecimento de voz (ASR) moderno para o Asterisk,
 1. Clone o repositório no seu servidor Asterisk:
 ```  bash
    cd /var/lib/asterisk/agi-bin/
-   git clone [https://github.com/SEU_USUARIO/asterisk-eagi-numpy-asr.git](https://github.com/SEU_USUARIO/asterisk-eagi-numpy-asr.git) .
+   git clone https://github.com/programandosolucoes/asterisk-eagi-numpy-asr.git .
 ```
 
 
