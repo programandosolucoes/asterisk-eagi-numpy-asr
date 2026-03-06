@@ -25,7 +25,8 @@ Este projeto é um motor de reconhecimento de voz (ASR) moderno para o Asterisk,
 2. Dê permissões de execução:
 ```bash
 chmod +x asr_engine.py
-chown asterisk:asterisk asr_engine.py```
+chown asterisk:asterisk asr_engine.py
+```
 
 
 
